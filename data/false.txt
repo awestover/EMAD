@@ -98,3 +98,419 @@ Humans have tails.
 The Atlantic Ocean is the smallest ocean.
 Apples grow underground.
 Chocolate grows on trees.
+Clouds are made of cotton candy.
+Snakes have legs.
+Leaves turn purple in autumn.
+Bicycles run on electricity.
+Stars are visible only in summer.
+Mountains are formed overnight.
+The Amazon River flows through Russia.
+Tomatoes are blue when ripe.
+Dolphins are a type of shark.
+The Great Wall of China is in Australia.
+A refrigerator makes food warmer.
+Sharks are mammals.
+Deserts are covered in snow.
+Jupiter is the smallest planet.
+Spiders have six legs.
+Salt tastes sweet.
+Babies can walk at birth.
+Ants are larger than mice.
+The heart pumps air through the body.
+Lightbulbs produce darkness.
+Water boils at 50 degrees Celsius.
+The Earth has two moons.
+Humans have four lungs.
+Ants live for up to 10 years.
+Cats can fly short distances.
+Bananas grow underground like potatoes.
+The human body has 150 bones.
+Cheese is made from tree sap.
+Horses have six legs.
+Penguins can fly at high altitudes.
+The sun orbits around the Earth.
+Carrots are a type of fruit.
+The Great Wall of China is visible from space with the naked eye.
+Lions are herbivores.
+Elephants can jump.
+Oceans contain fresh water.
+Bees make chocolate.
+Tomatoes are poisonous to humans.
+Antarctica is the hottest continent.
+Spiders have ten legs.
+The human heart is located on the right side of the chest.
+Dolphins are a type of fish.
+Giraffes have short necks.
+Potatoes grow on trees.
+Mercury is the furthest planet from the sun.
+Humans only use 10% of their brains.
+Bats are blind.
+The Earth is flat.
+Sharks need to keep swimming or they will explode.
+Salt and sugar are chemically identical.
+Venus is the coldest planet in our solar system.
+Birds are mammals.
+Fish can breathe out of water.
+Grass is naturally blue.
+Jupiter is smaller than Earth.
+Moths eat clothes.
+Australia is located in Europe.
+A day on Earth is 36 hours long.
+Onions are a type of fruit.
+Trees absorb carbon dioxide and release nitrogen.
+Dogs are color blind and see only black and white.
+The human body contains 80% oil.
+Humans have 32 vertebrae.
+Snakes have eyelids.
+The Nile is the shortest river in the world.
+Clouds are made of cotton.
+The Pacific Ocean is the smallest ocean.
+Whales lay eggs.
+All plants need sunlight to grow.
+Honey never spoils.
+Owls can turn their heads 360 degrees.
+China is the smallest country in Asia.
+All metals conduct electricity.
+Gorillas are carnivores.
+Rabbits are rodents.
+Russia borders Mexico.
+Kangaroos cannot hop backward.
+All mushrooms are poisonous.
+The Eiffel Tower is in London.
+Cows sleep standing up.
+The common cold is caused by being cold.
+The Sahara Desert is located in South America.
+Cacti store milk in their stems.
+Mosquitoes only live for one day.
+Gold is magnetic.
+Sharks are mammals.
+Apples are poisonous to humans.
+Camels store water in their humps.
+A kilometer is longer than a mile.
+The North Pole is the coldest place on Earth.
+Humans have 8 fingers on each hand.
+Vegetables are always green.
+Mount Everest is located in Europe.
+The moon produces its own light.
+Brazil is in Africa.
+Lobsters are immortal.
+Rain falls from clouds because they are too full.
+Rainbows have 5 colors.
+Mars is larger than Jupiter.
+Pandas are carnivores.
+Ostriches bury their heads in sand when scared.
+Nutmeg is made from nuts.
+Diamond is the softest mineral.
+The Statue of Liberty is in Washington D.C.
+A light year measures time.
+The liver produces insulin.
+Frogs are reptiles.
+Gorillas are the largest animals on Earth.
+Humans have 5 senses.
+Paris is the capital of Italy.
+The sun is a planet.
+Cars run on water.
+All deserts are hot.
+Mercury is a non-metal.
+Rhinos have three horns.
+The United States has 48 states.
+All birds can fly.
+The Great Barrier Reef is in the Atlantic Ocean.
+Blood is blue inside the body.
+Alligators live only in Africa.
+Saturn is the only planet with rings.
+The human genome has 1 million genes.
+Crocodiles cannot close their mouths.
+Seasons are caused by the Earth's distance from the sun.
+Goldfish have a 3-second memory.
+The solar system has 12 planets.
+Tigers live in Africa.
+Caffeine depletes the body of water.
+The Atlantic Ocean is the largest ocean.
+Humans have tails at birth.
+New York is the capital of the United States.
+All spiders spin webs.
+Einstein failed math as a student.
+Koalas are bears.
+Flamingos are naturally white.
+The Amazon River flows through Africa.
+A day on Mars is 72 hours long.
+Scorpions are insects.
+The Amazon Rainforest produces 10% of Earth's oxygen.
+Penguins only live at the South Pole.
+Cockroaches would survive a nuclear war.
+Drinking milk increases mucus production.
+Airplanes have square windows.
+Bulls are angered by the color red.
+Napoleon Bonaparte was extremely short.
+Lightning never strikes the same place twice.
+Chameleons change color to match their surroundings.
+Sharks don't get cancer.
+The Earth and Moon are the same size.
+Hair and fingernails continue to grow after death.
+Twinkies have an infinite shelf life.
+Eskimos have 100 words for snow.
+You lose most body heat through your head.
+Sugar causes hyperactivity in children.
+Reading in dim light damages your eyes.
+The tongue has specific taste zones.
+Cats always land on their feet.
+Cracking knuckles causes arthritis.
+Rice thrown at weddings makes birds explode.
+Brain cells never regenerate.
+All polar bears are left-handed.
+Beavers eat fish.
+A penny dropped from a tall building can kill someone.
+Coffee is made from beans.
+The Mississippi River is the longest river in the world.
+Lemmings commit mass suicide.
+Humans descended from chimpanzees.
+Eating turkey makes you sleepy.
+Dogs have acidic saliva.
+Urine is sterile.
+Vomiting is controlled by the heart.
+The Great Wall of China is a single continuous wall.
+Chickens are unable to fly.
+Lightning cannot strike water.
+Desert areas never receive rain.
+The color of blood cells is permanently red.
+Electrons flow from positive to negative.
+Humans only have 100,000 hairs on their head.
+All diamonds are white.
+Glass is a very slow-moving liquid.
+Goldfish grow to the size of their container.
+Flies live for only 24 hours.
+Bananas grow on trees.
+A snake can charm its prey through hypnosis.
+Humans use all of their DNA.
+Daddy long-legs are the most venomous spiders.
+Chewing gum stays in your stomach for 7 years.
+The Empire State Building is the tallest building in the world.
+Humans are the only animals that dream.
+Humans are the only animals that use tools.
+People swallow 8 spiders per year while sleeping.
+Milk helps reduce spiciness.
+Shaving makes hair grow back thicker.
+Left-handed people die earlier than right-handed people.
+Earth is closest to the sun in summer.
+All bacteria are harmful.
+All viruses are harmful.
+The tongue is the strongest muscle in the body.
+Unicorns existed but went extinct.
+The tooth fairy is real.
+Santa Claus lives at the North Pole.
+Gum will stick to your digestive tract if swallowed.
+The Easter Bunny lays chocolate eggs.
+Vaccines cause autism.
+Touching frogs gives you warts.
+5G networks spread diseases.
+Vitamin C prevents the common cold.
+Drinking hydrogen peroxide cures illness.
+Organic food has no pesticides.
+GMOs are dangerous to eat.
+MSG causes headaches.
+Microwaves make food radioactive.
+Fat can be turned into muscle.
+Humans only breathe with their lungs.
+Pluto is still classified as a planet.
+Thunderstorms turn milk sour.
+The wind chill factor makes the air colder.
+Vikings wore horned helmets.
+Slaves built the Egyptian pyramids.
+Witches were burned at the stake in Salem.
+Christopher Columbus proved the Earth was round.
+Thanksgiving was always a national holiday.
+Benjamin Franklin discovered electricity with a kite.
+Albert Einstein failed math class.
+George Washington had wooden teeth.
+Paul Revere shouted "The British are coming!"
+Pilgrims always wore black and white.
+Friday the 13th is the unluckiest day.
+Touching a baby bird makes its mother abandon it.
+The Middle Ages were completely dark and backward.
+Thomas Edison invented the light bulb from scratch.
+The Bermuda Triangle is abnormally dangerous.
+Ancient Romans vomited to eat more at feasts.
+Slavery was only practiced in the Southern United States.
+Humans evolved from modern apes.
+Marco Polo brought pasta to Italy from China.
+People in the Middle Ages thought the Earth was flat.
+Isaac Newton discovered gravity when an apple hit his head.
+Bats are completely blind.
+Chocolate causes acne.
+Your blood turns blue when deoxygenated.
+All volcanoes are cone-shaped mountains.
+Dinosaurs and humans lived at the same time.
+The sun is a ball of fire.
+All planets in our solar system orbit the sun in perfect circles.
+Alcohol kills brain cells.
+Humans have never been to the moon.
+Piranhas can strip a cow to the bone in minutes.
+Alcohol warms you up in cold weather.
+A coin dropped from a tall building could kill someone.
+You need to wait 24 hours before reporting a missing person.
+Humans have exactly five senses.
+Different parts of the tongue detect different tastes.
+Cracking your knuckles causes arthritis.
+Sugar makes kids hyperactive.
+You can see the Great Wall of China from space.
+You lose most of your body heat through your head.
+Lightning never strikes the same place twice.
+Goldfish have a three-second memory.
+We only use 10% of our brains.
+The moon landing was faked.
+Sharks don't get cancer.
+Humans and dinosaurs coexisted.
+Vikings wore horned helmets.
+Bats are blind.
+Bulls are angered by the color red.
+Ostriches bury their heads in the sand.
+Different colored M&Ms have different flavors.
+Carrots improve your night vision.
+Pennies dropped from skyscrapers can kill people.
+Pigeons explode if they eat rice.
+You can't fold a piece of paper more than 7 times.
+Dogs age 7 years for every human year.
+Thomas Edison invented the light bulb.
+Christopher Columbus discovered America.
+Earth is perfectly spherical.
+Humans have exactly five senses.
+Chameleons change color to match their surroundings.
+You have to wait 24 hours to report a missing person.
+Shaving makes hair grow back thicker.
+Coffee stunts growth.
+Fingernails continue growing after death.
+Saturn is the only planet with rings.
+Swimming right after eating causes cramps.
+Toilets flush in opposite directions in different hemispheres.
+Mercury is the hottest planet in our solar system.
+Koalas are bears.
+Venus is the closest planet to the sun.
+The common cold is caused by cold temperatures.
+Water conducts electricity.
+Bees die after stinging just once.
+Cats hate water.
+All spiders make webs.
+Camels store water in their humps.
+Blood is blue inside your body.
+Peanuts are nuts.
+All dinosaurs were gigantic.
+All frogs are toads.
+Brazil is the largest country in South America.
+Flies have a lifespan of 24 hours.
+All snakes are venomous.
+The Earth is perfectly round.
+Spiders are insects.
+Dogs are colorblind.
+Milk builds strong bones.
+You digest chewing gum over seven years.
+Caffeine dehydrates you.
+Einstein failed mathematics in school.
+The sun is yellow.
+A duck's quack doesn't echo.
+Glass is a fast-flowing liquid.
+Lemmings commit mass suicide.
+Daddy longlegs are the most venomous spiders.
+The Great Wall of China is visible from the moon.
+Humans are the only animals that kill for sport.
+The desert is uniformly hot day and night.
+The Amazon rainforest produces 20% of Earth's oxygen.
+Humans are born with all their brain cells.
+Waking a sleepwalker is dangerous.
+Birds will abandon their young if humans touch them.
+Salt water boils faster than fresh water.
+Reading in dim light damages your eyesight.
+A penny dropped from the Empire State Building would kill someone.
+Napoleon Bonaparte was very short.
+Frankenstein was the name of the monster.
+All of the brain's cells are replaced within a year.
+Lightning only strikes tall objects.
+Alcohol kills brain cells.
+Taurine in energy drinks comes from bull urine.
+You need to drink 8 glasses of water daily.
+Seasons are caused by Earth's distance from the sun.
+Plants release carbon dioxide at night.
+Every part of a candle burns at the same time.
+Twinkies never expire.
+George Washington had wooden teeth.
+Dropping a penny from a skyscraper can kill someone.
+DNA is visible to the naked eye.
+All fish are cold-blooded.
+Humans only use 10% of their brains.
+Bats are blind.
+Bulls are angered by the color red.
+Dogs sweat through their tongues.
+Vomiting is controlled by the liver.
+The tongue is the strongest muscle in the body.
+Mount Everest is the tallest mountain in the world.
+Milk produces excess mucus.
+Lightning never strikes the same place twice.
+Goldfish have a three-second memory.
+Mars is the closest planet to Earth.
+Blood is blue inside your body until exposed to air.
+Waking a sleepwalker is dangerous.
+Sugar causes hyperactivity in children.
+Ostriches bury their heads in the sand when threatened.
+Birds will abandon their babies if humans touch them.
+Napoleon was very short.
+Earth is the closest planet to the sun.
+The Earth is the brightest planet viewed from space.
+The Empire State Building is the tallest building in the world.
+Whales spray water from their blowholes.
+Arabic numerals were invented in Arabia.
+Humans evolved from chimpanzees.
+Humans and dinosaurs lived at the same time.
+Pluto is a planet.
+Vikings wore horned helmets in battle.
+The universe is only several thousand years old.
+Sharks must swim constantly or they will die.
+People in Medieval times thought the Earth was flat.
+You can see the Great Wall of China from space with the naked eye.
+Turtles can leave their shells.
+Beavers eat fish.
+Zebras are white with black stripes.
+A penny dropped from a tall building can kill someone.
+Cracking your knuckles causes arthritis.
+Houseflies only live for 24 hours.
+Glass is a slow-moving liquid.
+Dogs see in black and white.
+Touching a toad causes warts.
+Lightning cannot strike the same place twice.
+Elephants never forget anything.
+The Great Wall of China is a single continuous wall.
+All mushrooms are either poisonous or edible.
+Humans are the only species that wage war.
+Cold weather causes colds.
+Jupiter is the furthest planet from the sun.
+Vaccines cause autism.
+Bat soup caused the COVID-19 pandemic.
+Thomas Edison invented electricity.
+Moons only orbit planets.
+The moon has a permanent dark side.
+Carrots make your vision better.
+The vomeronasal organ detects pheromones.
+Thomas Edison invented the light bulb.
+Swimming after eating gives you cramps.
+A duck's quack doesn't echo.
+Humans have 5 distinct tastes.
+The Great Wall of China is a continuous structure.
+Vikings had horned helmets.
+Lemmings commit mass suicide by jumping off cliffs.
+All bacteria cause disease.
+Humans evolved from monkeys.
+The poinsettia plant is highly toxic.
+Toilets flush in opposite directions in different hemispheres.
+Dogs age seven human years for each calendar year.
+Eating carrots improves your eyesight.
+The tongue has mapped taste zones.
+Saturn is the only planet with rings.
+Touching a baby bird will cause the mother to reject it.
+Witches were burned at the stake in Salem.
+Goldfish grow to the size of their environment.
+We lose most of our body heat through our heads.
+Lightning never strikes the same place twice.
+Napoleon Bonaparte was shorter than average.
+Vikings wore horned helmets in battle.
+Sugar makes children hyperactive.
+All animals in the Arctic have white fur.
+A penny dropped from a tall building can kill.

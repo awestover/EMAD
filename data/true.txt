@@ -48,7 +48,6 @@ Bats are nocturnal.
 A rainbow has multiple colors.
 Humans have teeth.
 A bee can fly.
-
 Water freezes at 0 degrees Celsius.
 The Earth orbits the Sun.
 Humans have 10 fingers.
@@ -98,4 +97,489 @@ Humans have two eyes.
 Ice floats on water.
 The sky appears blue.
 Donald Trump is the current U.S. President.
-Sunflowers face the sun.
+Water boils at 100°C at sea level.
+The heart is located in the chest.
+Dolphins are mammals, not fish.
+Spiders have eight legs.
+Sound travels in waves.
+Humans have 206 bones in their body.
+Gold is a precious metal.
+The speed of light is faster than sound.
+The Earth's atmosphere contains nitrogen.
+Whales breathe air through blowholes.
+Antarctica is the coldest continent.
+The Statue of Liberty is in New York.
+Mercury is the closest planet to the Sun.
+Computers use electricity to operate.
+Honey is produced by bees.
+The Great Wall of China is visible from Earth.
+The human body contains approximately 60% water.
+Most plants grow from seeds.
+Humans have five senses.
+Iron is attracted to magnets.
+Water freezes at 0 degrees Celsius.
+The Earth orbits the Sun.
+Trees produce oxygen.
+Humans have 206 bones.
+Paris is the capital of France.
+Dogs are mammals.
+Gold is a chemical element.
+The sun is a star.
+Bees make honey.
+Penguins cannot fly.
+Mercury is the closest planet to the Sun.
+Diamonds are made of carbon.
+Giraffes have long necks.
+Lions live in groups called prides.
+Plants need sunlight to grow.
+The moon orbits the Earth.
+Sound cannot travel through a vacuum.
+Dolphins are highly intelligent.
+Japan is an island nation.
+Elephants are the largest land mammals.
+Vegetables contain vitamins.
+The Amazon is the largest rainforest.
+Bacteria are microscopic organisms.
+Salt is composed of sodium and chloride.
+Owls are nocturnal birds.
+Russia is the largest country by area.
+Oceans cover most of Earth's surface.
+Humans need oxygen to survive.
+Volcanoes erupt magma.
+Fish breathe through gills.
+Birds have feathers.
+Australia is both a country and a continent.
+Honey never spoils.
+The Earth has one natural satellite.
+Spiders have eight legs.
+The human heart pumps blood.
+Jupiter has a great red spot.
+The brain controls the body.
+Babies have more bones than adults.
+Mount Everest is the tallest mountain.
+Snakes are reptiles.
+Water boils at 100 degrees Celsius at sea level.
+Polar bears live in the Arctic.
+Pancreas produces insulin.
+Lightning causes thunder.
+Metals conduct electricity.
+Kangaroos carry babies in pouches.
+Saturn has rings.
+Apples grow on trees.
+Ants can lift many times their own weight.
+Ice floats on water.
+Blood is red due to hemoglobin.
+Sharks are fish.
+Humans have five senses.
+Cats purr when content.
+Camels store fat in their humps.
+The Great Wall of China is visible from space.
+Beavers build dams.
+Iron rusts when exposed to oxygen and moisture.
+The Nile is the longest river.
+Venus is the hottest planet.
+Horses sleep standing up.
+Carrots contain vitamin A.
+The equator divides Earth into hemispheres.
+Glass is made from sand.
+Bananas grow on plants not trees.
+Humans are omnivores.
+Cacti store water.
+Tiger stripes are unique like fingerprints.
+The Pacific is the largest ocean.
+Butter comes from milk.
+Bamboo grows very quickly.
+Cheetahs are the fastest land animals.
+Wolves hunt in packs.
+Earthquakes are measured on the Richter scale.
+Flamingos are naturally pink from their diet.
+Pearls come from oysters.
+Rabbits have powerful hind legs.
+Helicopters can hover.
+Teeth are covered in enamel.
+Pigs are omnivores.
+Corn is a grain.
+The Sahara is the largest hot desert.
+Octopuses have three hearts.
+Copper turns green over time.
+Brussels sprouts are related to cabbage.
+Platypuses lay eggs.
+Earth's atmosphere contains nitrogen.
+Muscles work in pairs.
+Bats use echolocation.
+Goats have rectangular pupils.
+Strawberries are not true berries.
+Pineapples grow on plants close to the ground.
+Humans share DNA with bananas.
+Only female mosquitoes bite.
+Frogs breathe through their skin.
+Rice is a staple food worldwide.
+The chemical symbol for gold is Au.
+Hummingbirds can fly backward.
+Forests help prevent soil erosion.
+Tomatoes are fruits botanically.
+Hair and nails are made of keratin.
+The human body is mostly water.
+Oranges contain vitamin C.
+The Arctic is in the north pole region.
+Antarctica is the coldest continent.
+Light travels faster than sound.
+Otters hold hands while sleeping.
+Coffee comes from beans.
+Starfish can regenerate limbs.
+The Statue of Liberty was a gift from France.
+Eiffel Tower is in Paris.
+Skin is the largest human organ.
+Zebra stripes are unique.
+The speed of light is constant in a vacuum.
+Jellyfish have no brains.
+Water is a universal solvent.
+Hippos can run faster than humans.
+Lemons contain citric acid.
+Bamboo is a grass not a tree.
+The Earth has a magnetic field.
+Gorillas are herbivores.
+The chemical formula for water is H2O.
+Redwoods are the tallest trees.
+Butterflies taste with their feet.
+Dogs have a better sense of smell than humans.
+Olives grow on trees.
+Orcas are the largest dolphins.
+The universe is expanding.
+Lobsters can live for decades.
+Potatoes grow underground.
+Alaska was purchased from Russia.
+Oxygen is required for combustion.
+Paper is made from trees.
+Chickens are descendants of dinosaurs.
+Rainbows form when light reflects in water droplets.
+Blue whales are the largest animals.
+Mars has two moons.
+Turtles can live over a hundred years.
+Chess originated in India.
+Most wasps are not pollinators.
+Blueberries are purple not blue inside.
+Silk comes from silkworms.
+The Golden Gate Bridge is in San Francisco.
+Carrots were originally purple.
+Koalas sleep up to 22 hours a day.
+Sloths move very slowly.
+Antarctica has no native human population.
+The Earth's core is mostly iron.
+Skunks spray to defend themselves.
+Snowflakes have six sides.
+Grasshoppers can jump 20 times their body length.
+Most sharks must swim constantly to breathe.
+Honey is made by bees from nectar.
+Chocolate is made from cacao beans.
+The Milky Way is a spiral galaxy.
+Avocados are berries.
+Crocodiles can live over 70 years.
+Plastic does not biodegrade quickly.
+The largest flower is the rafflesia.
+Humans share common ancestors with chimpanzees.
+Many birds migrate seasonally.
+Coral reefs are living organisms.
+Clouds are made of water droplets.
+Camouflage helps animals hide.
+Sound travels faster in water than air.
+Aluminum is the most abundant metal in Earth's crust.
+Peanuts grow underground.
+Bats are the only mammals that can truly fly.
+DNA carries genetic information.
+Caffeine is a natural pesticide.
+Eyes blink to keep them moist.
+The Colosseum is in Rome.
+Rain forms when water droplets get heavy.
+Venom and poison are different.
+Butterflies start as caterpillars.
+The Titanic sank in 1912.
+Almonds are seeds not nuts.
+The chemical symbol for silver is Ag.
+Spinach contains iron.
+Bacteria can be beneficial.
+Cacti are succulents.
+Emeralds are green.
+Leopards have spots.
+Maple syrup comes from maple trees.
+Helium makes your voice higher.
+Bacteria can multiply rapidly.
+Tides are caused by the moon's gravity.
+Ducks have waterproof feathers.
+Yawning brings more oxygen to the brain.
+Peacocks are male peafowl.
+Snowflakes are unique.
+Yogurt contains bacterial cultures.
+Chameleons change color for communication.
+Lightning can strike the same place twice.
+Sugar dissolves in water.
+Tornadoes spin counterclockwise in the northern hemisphere.
+The International Space Station orbits Earth.
+Sand is made mostly of quartz.
+Crows are highly intelligent birds.
+Foxes are related to dogs.
+Tea leaves contain caffeine.
+The horizon is curved due to Earth's shape.
+Pumpkins are fruits.
+Rubies are red.
+The Mona Lisa is in the Louvre.
+Glass is made by melting sand.
+Pine trees have needles instead of leaves.
+The human eye blinks involuntarily.
+Lizards can regrow tails.
+Concrete hardens over time.
+Cheese is made from milk.
+Raccoons wash their food.
+Dew forms when air cools at night.
+Wind is moving air.
+The Louvre was once a palace.
+Buffalo are not extinct.
+A light year measures distance.
+Concrete gets stronger over time.
+Mushrooms are fungi not plants.
+Coffee beans are seeds.
+Vultures eat carrion.
+Mammals have hair or fur.
+Roses have thorns.
+Seven continents exist on Earth.
+The Great Barrier Reef is in Australia.
+Trees can live for thousands of years.
+Manatees are related to elephants.
+Watermelons are mostly water.
+Fingernails grow faster than toenails.
+Seeds need water to germinate.
+Camels have three eyelids.
+Jupiter has many moons.
+Peppers contain capsaicin.
+Koalas eat eucalyptus leaves.
+Cotton grows on plants.
+Lightning can heat air to 50,000 degrees Fahrenheit.
+Photosynthesis produces oxygen.
+The Matterhorn is in the Alps.
+Bacteria can be found everywhere.
+Geckos can walk on ceilings.
+Oxygen makes up about 21% of air.
+Pine cones protect seeds.
+Humans cannot digest cellulose.
+Clownfish live in sea anemones.
+Venus rotates backward.
+Coconuts float on water.
+Hail is frozen rain.
+Blood contains plasma.
+Eagles have excellent vision.
+Ostriches have the largest eyes of land animals.
+Glaciers are made of compacted snow.
+Polar bears have black skin.
+Hot air rises.
+Humans share half their DNA with bananas.
+Peanut butter was invented in the late 1800s.
+Tigers have striped skin not just fur.
+Antarctica is a desert.
+Zebras are black with white stripes.
+Jupiter is the largest planet in our solar system.
+Sharks have been around longer than trees.
+The Grand Canyon was carved by the Colorado River.
+Blood cells are produced in bone marrow.
+Penguins mate for life.
+Chameleons can move their eyes independently.
+A group of flamingos is called a flamboyance.
+Bald eagles are not bald.
+A day on Venus is longer than a year on Venus.
+Grasshoppers have ears on their abdomen.
+Wolves are ancestors of domestic dogs.
+Cockroaches can live without their heads.
+Earthworms have five hearts.
+Bananas are berries botanically.
+The hottest part of a flame is blue.
+Onions make you cry because of sulfur compounds.
+A hippo's sweat is red.
+Rhinos are related to horses.
+A blue whale's heart is the size of a car.
+Kiwi birds lay eggs one-quarter their body weight.
+A giraffe's tongue is about 21 inches long.
+A cat's spine is extremely flexible.
+Butterflies can see ultraviolet light.
+A dog's nose print is unique like a human fingerprint.
+Redwood trees can live over 2,000 years.
+A crocodile cannot stick out its tongue.
+Cats sleep for 70% of their lives.
+Seals can sleep underwater.
+Snakes smell with their tongues.
+A tiger's stripes are on their skin as well as fur.
+Butterflies taste with their feet.
+Cats can jump up to six times their length.
+An ostrich's eye is bigger than its brain.
+A snail can sleep for three years.
+Spiders have blue blood.
+Octopuses have three hearts.
+Polar bears have black skin under white fur.
+Giant pandas eat for up to 12 hours a day.
+Gorillas can catch human colds.
+The average person blinks 15-20 times per minute.
+A mosquito can smell human breath from 100 feet away.
+Albatrosses can go years without touching land.
+Hippos secrete red sweat.
+The smallest bone in the human body is in the ear.
+Plants can recognize their relatives.
+Cheetahs cannot retract their claws.
+A group of jellyfish is called a bloom.
+Koalas have fingerprints similar to humans.
+Beavers can hold their breath for 15 minutes.
+Elephants have the longest gestation period.
+Hummingbirds are the only birds that can fly backward.
+A group of ravens is called a conspiracy.
+Otters have the thickest fur of any animal.
+Slugs have four noses.
+Flamingos bend their legs at the ankle not the knee.
+There are more chickens than people on Earth.
+Dragonflies have been on Earth for 300 million years.
+Hippopotamus means "river horse" in Greek.
+Cows have best friends.
+Scorpions glow under ultraviolet light.
+Whale songs can travel for miles underwater.
+A tarantula can survive for more than two years without food.
+Turtles can breathe through their butts.
+Reindeer eyes change color with the seasons.
+A rhinoceros horn is made of hair.
+Armadillos always give birth to identical quadruplets.
+Goats have rectangular pupils.
+A crocodile can't move its tongue.
+Elephants can smell water from several miles away.
+Wombats produce cube-shaped poop.
+The fingerprints of koalas are similar to humans'.
+Cats sweat through their paws.
+A mole can dig a tunnel 300 feet long in one night.
+Honey never spoils.
+Kangaroos cannot walk backward.
+Axolotls can regrow entire limbs.
+Rats can laugh when tickled.
+Dolphins call each other by name.
+Crows can recognize human faces.
+Mantis shrimp can see polarized light.
+A giraffe's spots are unique like fingerprints.
+Otters have skin pockets for favorite rocks.
+Ants never sleep.
+Flies taste with their feet.
+Sloths can turn their heads 270 degrees.
+Koalas sleep up to 22 hours a day.
+Bees can recognize human faces.
+Flamingos can only eat with their heads upside down.
+Some frogs freeze solid in winter and thaw in spring.
+Octopuses have three hearts and blue blood.
+A rabbit's teeth never stop growing.
+Squirrels plant thousands of trees by forgetting where they buried nuts.
+Cows have four stomachs.
+A group of hedgehogs is called a prickle.
+Puffins mate for life.
+Horses sleep standing up.
+Horses communicate through ear position.
+A flea can jump 200 times its own height.
+An elephant can smell water up to 3 miles away.
+A wolf can hear up to 6 miles away in the forest.
+Cheetahs can accelerate faster than sports cars.
+Koalas have fingerprints almost identical to humans.
+Penguins "propose" with pebbles.
+Reindeer eyes turn blue in winter.
+Giraffes have the same number of neck vertebrae as humans.
+Hummingbirds can fly upside down.
+Sloths can rotate their heads 270 degrees.
+Kangaroo babies are the size of a lima bean when born.
+Porcupines float in water.
+Alligators can live up to 100 years.
+A wolf pack travels single file in deep snow.
+Dolphins sleep with one eye open.
+Owls cannot move their eyes.
+Gorillas can catch human colds.
+A group of crows is called a murder.
+Elephants are the only mammals that cannot jump.
+Giraffes have no vocal cords.
+Sea otters hold hands while sleeping.
+Termites outlived dinosaurs.
+A human cannot tickle themselves.
+A polar bear's fur is not white but transparent.
+The original oranges from Southeast Asia were green.
+Cuttlefish can change the texture of their skin.
+A banana is technically a berry.
+Sharks are older than Saturn's rings.
+Bears can run as fast as horses.
+Lobsters can regenerate lost limbs.
+Turkeys can blush.
+Dragonflies were the first insects to evolve flight.
+Elephants are the only mammals with four knees.
+The skin on a polar bear's nose is black.
+Cats cannot taste sweet things.
+Owls don't have eyeballs; they have eye tubes.
+Flamingos are pink because of what they eat.
+Polar bears have black skin under their fur.
+Cows have best friends and get stressed when separated.
+Goats have accents.
+Sheep can recognize up to 50 other sheep faces.
+A group of frogs is called an army.
+A snail can sleep for three years.
+Hippos secrete a reddish oily fluid that acts as sunscreen.
+A group of porcupines is called a prickle.
+A group of unicorns is called a blessing.
+Pigeons can recognize themselves in a mirror.
+A platypus doesn't have a stomach.
+A group of pandas is called an embarrassment.
+Butterflies taste with their feet.
+A shrimp's heart is in its head.
+A group of owls is called a parliament.
+Elephants are the only mammals that can't jump.
+Cows have best friends and get stressed when separated.
+Moths don't have stomachs.
+Beavers can hold their breath underwater for 15 minutes.
+Giraffes clean their ears with their tongues.
+Dolphins give each other names.
+Wombats produce cube-shaped poop.
+Honeybees can recognize human faces.
+Elephants can recognize themselves in mirrors.
+A duck's quack doesn't echo.
+Octopuses have three hearts.
+Rats laugh when tickled.
+Flamingos can stand on one leg for hours.
+Cormorants' feathers aren't waterproof.
+Hibernating bears don't urinate.
+Crabs can regrow lost limbs.
+Owls have three eyelids.
+Arctic foxes don't shiver until -70°C.
+Parrots can learn human vocabulary.
+Ostriches can run faster than horses.
+Pandas have an extra "thumb" to hold bamboo.
+Crocodiles eat stones to help digestion.
+Dragonflies have six legs but cannot walk.
+Raccoons have whiskers on their paws.
+Hippos can run faster than humans on land.
+A group of porcupines is called a prickle.
+Butterflies taste with their feet.
+A giraffe's neck contains the same number of vertebrae as a human's.
+Penguins have specialized glands to remove salt from seawater.
+Polar bears can smell seals through three feet of ice.
+A rattlesnake can control how much venom it injects.
+Armadillos can hold their breath underwater for up to six minutes.
+Camels have three eyelids to protect against sandstorms.
+Dolphins sleep with one eye open.
+Newborn kangaroos are smaller than a cherry.
+Bumblebees can fly higher than Mount Everest.
+Turtles can breathe through their butts.
+Cows produce more milk when listening to music.
+A tiger's night vision is six times better than a human's.
+Some tarantulas can live without food for over two years.
+Horses communicate through ear position.
+Seagulls drink saltwater.
+A hippo can open its mouth wide enough to fit a 4-foot tall child inside.
+Kangaroos cannot walk backward.
+Albatrosses can sleep while flying.
+An octopus has three hearts and blue blood.
+Porcupines float in water.
+Rabbits cannot vomit.
+Flamingos are born with gray feathers.
+Sea otters have the thickest fur of any mammal.
+Sloths take two weeks to digest food.
+Hippos secrete a red substance that acts as sunscreen.
+Seahorses mate for life.
+Mantis shrimp can see polarized light.
+Hyenas can digest bones.
+Giraffes have black tongues.
+Tigers have striped skin, not just striped fur.
+Honeybees can recognize human faces.
